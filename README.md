@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Purvi Vaghela</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvivaghela&label=Profile%20views&color=0e75b6&style=flat" alt="purvivaghela" /> </p>
 
 - 🌱 I’m currently studying at **L.D. College Of Engineering**
 
-- 🔭 I’m currently learning **React js and Django**
+- 🔭 I’m currently exploring **MERN STACK**
 
 - 📫 How to reach me **purvi09v@gmail.com**
 
