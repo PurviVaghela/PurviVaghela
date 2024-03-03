@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvivaghela&label=Profile%20views&color=0e75b6&style=flat" alt="purvivaghela" /> </p>
 
-- 🌱 I’m currently studying at **L.D. College Of Engineering**
-
 - 🔭 I’m currently exploring **MERN STACK**
 
 - 📫 How to reach me **purvi09v@gmail.com**
