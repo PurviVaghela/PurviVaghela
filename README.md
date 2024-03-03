@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently exploring **MERN STACK**
 
+- ☘️ A bit knack of Flutter and Django
+
 - 📫 How to reach me **purvi09v@gmail.com**
 
 - ⚡ My Maxim **Talk is cheap, show me the code.**
